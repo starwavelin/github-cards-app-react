@@ -1,8 +1,6 @@
 # github-cards-app-react
+
 A React app to display and insert cards of GitHub users
-
-
-
 
 ### NOTE: The following info is copied from the default README file from the project folder created by create-react-app
 
