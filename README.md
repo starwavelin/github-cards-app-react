@@ -1,6 +1,19 @@
 # github-cards-app-react
 
-A React app to display and insert cards of GitHub users
+### Project Description
+A React GitHub Profile Card App that displays information of GitHub profiles, allows the user to add GitHub profiles, by invoking GitHub public REST API. 
+
+### Screenshots of Outcomes
+
+
+### Design Diagram
+
+
+### Features Implemented
+- [x] Install node-sass and use .scss files instead of .css files in the project 
+
+
+
 
 ### NOTE: The following info is copied from the default README file from the project folder created by create-react-app
 
