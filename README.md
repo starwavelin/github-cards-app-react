@@ -10,8 +10,10 @@ A React GitHub Profile Card App that displays information of GitHub profiles, al
 
 
 ### Features Implemented
-- [x] Install node-sass and use .scss files instead of .css files in the project 
-
+- [x] Installed node-sass and use .scss files instead of .css files in the project
+- [x] Implemented Card and CardList components for displaying the GitHub user data (name, profile image and company)
+- [] Built the form for the user to type in a GitHub username, query GitHub API for the username's data, and append it to the CardList
+- [] Converted the original class style components into function style components (Recommended by the React dev group)
 
 
 

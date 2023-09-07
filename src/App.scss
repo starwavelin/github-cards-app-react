@@ -1,18 +1,24 @@
-.github-profile {
-    text-align: center;
-    margin: 1rem;
+.profiles {
+    width: 30rem;
+    margin-left: auto;
+    margin-right: auto;
 
-    img {
-        width: 75px;
-    }
 
-    .info {
-        display: inline-block;
-        margin-left: 12px;
+    .github-profile {
+        margin: 1rem;
 
-        .name {
-            font-size: 1.25rem;
-            font-weight: bold;
+        img {
+            width: 75px;
+        }
+
+        .info {
+            display: inline-block;
+            margin-left: 0.75rem;
+
+            .name {
+                font-size: 1.25rem;
+                font-weight: bold;
+            }
         }
     }
 }
