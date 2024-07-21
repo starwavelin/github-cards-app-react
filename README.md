@@ -14,7 +14,7 @@ A React GitHub Profile Card App that displays information of GitHub profiles, al
 - [x] Implemented Card and CardList components for displaying the GitHub user data (name, profile image and company)
 - [] Built the form for the user to type in a GitHub username, query GitHub API for the username's data, and append it to the CardList
 - [] Converted the original class style components into function style components (Recommended by the React dev group)
-
+- [] Modularized the code: setting up components directory, mockData directory, etc.
 
 
 ### NOTE: The following info is copied from the default README file from the project folder created by create-react-app
